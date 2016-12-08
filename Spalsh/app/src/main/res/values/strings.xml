@@ -1,0 +1,10 @@
+<resources>
+    <!--Created by Dinuka on 12/3/16.-->
+    <string name="app_name">Splash</string>
+    <!-- Splash screen delay (milliseconds) 1500 = 1.5 seconds -->
+    <string name="splash_delay" translatable="false">3800</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-4951923157453460/2072963032</string>
+    <!--test ad unit id-->
+    <!--ca-app-pub-3940256099942544/6300978111-->
+</resources>
